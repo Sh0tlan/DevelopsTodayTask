@@ -10,6 +10,11 @@ Using a no-architecture pattern.
 - Responsive design
 - Dynamic routing
 
+## Screenshots
+
+<img width="1438" alt="Screenshot 2024-12-07 at 01 09 21" src="https://github.com/user-attachments/assets/be59e298-6eb6-470b-92f6-03b07cad3d7c">
+<img width="1439" alt="Screenshot 2024-12-07 at 01 02 42" src="https://github.com/user-attachments/assets/11d9ba4e-aad5-4d13-9bd0-4b63cb5f6564">
+
 ## Getting Started
 
 First, run the development server:
